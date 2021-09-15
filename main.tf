@@ -11,4 +11,3 @@ module "vpc" {
   ami                = "ami-00a9d4a05375b2763"
   instance_type      = "t2.micro"
 }
-
